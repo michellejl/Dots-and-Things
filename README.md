@@ -9,3 +9,5 @@ Markdown file with a list and description of some alias I have set up in my term
 ### [ZSH Themes](/terminal/zsh-themes/themes.md)
 My main shell is zsh, using [oh-my-zsh](https://ohmyz.sh/). I've created a few themes over time to keep myself entertained.
 
+### [Shell Scripting](/terminal/shell-scripting)
+Been playing with shell scripting. These are a few I like. Mostly amusing, no promises anything is helpful.
